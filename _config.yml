@@ -95,6 +95,6 @@ service-worker: true
 friends: [
     {
         title: "TYC",
-        href: "www.tangyuecan.com"
+        href: "https://www.tangyuecan.com"
     }
 ]
